@@ -1,0 +1,17 @@
+{
+  "name": "@jihchi/plugin-rescript",
+  "version": "0.0.0",
+  "main": "plugin.js",
+  "license": "MIT",
+  "homepage": "https://github.com/jihchi/plugin-rescript/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jihchi/plugin-rescript.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "rescript": "^9.1.1"
+  }
+}
