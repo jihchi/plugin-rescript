@@ -11,6 +11,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "plugin.js"
+  ],
   "dependencies": {
     "rescript": "^9.1.1"
   }
