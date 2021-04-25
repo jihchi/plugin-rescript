@@ -5,6 +5,7 @@ This plugin adds ReScript to your Snowpack project.
 ### Install
 
 ```
+npm install --save-dev rescript
 npm install --save-dev @jihchi/plugin-rescript
 ```
 
