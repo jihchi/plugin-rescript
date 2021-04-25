@@ -1,5 +1,5 @@
 # Changelog
 
-## @jihchi/plugin-rescript@1.0.0 [yyyy-mm-dd]
+## @jihchi/plugin-rescript@1.0.0 [2021-04-25]
 
-`TBD`
+- Initial version, built on top of @snowpack/plugin-run-script

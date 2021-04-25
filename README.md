@@ -28,3 +28,7 @@ module.exports = {
 Once added to the configuration, `@jihchi/plugin-rescript` will run automatically on `snowpack dev` and `snowpack build`.
 
 ### Plugin Options
+
+| Name     | Type                      | Description                                                  |
+| :------- | :------------------------ | :----------------------------------------------------------- |
+| `output` | `"stream" or "dashboard"` | (optional) Set how the output should be recorded during dev. |
