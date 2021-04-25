@@ -1,6 +1,6 @@
 {
   "name": "@jihchi/plugin-rescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "plugin.js",
   "license": "MIT",
   "homepage": "https://github.com/jihchi/plugin-rescript/#readme",
@@ -15,8 +15,9 @@
     "plugin.js"
   ],
   "dependencies": {
-    "execa": "^5.0.0",
-    "npm-run-path": "^4.0.1",
+    "@snowpack/plugin-run-script": "^2.3.0"
+  },
+  "peerDependencies": {
     "rescript": "^9.1.1"
   }
 }
